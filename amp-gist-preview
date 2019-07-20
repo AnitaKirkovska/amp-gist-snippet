@@ -1,0 +1,8 @@
+<amp-story-page>
+<amp-story-grid-layer template="fill" >
+          
+          <div class="amp-gist" grid-area="middle-third">
+            <h1>This is a gist embedded on the AMP Story page that you are looking at</h1>
+          </div>
+        </amp-story-grid-layer>
+ </amp-story-page>
