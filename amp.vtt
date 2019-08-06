@@ -1,0 +1,1065 @@
+WEBVTT
+
+1
+00:00:04.220 --> 00:00:07.340
+Thank you so much for coming and watching over talk today.
+
+2
+00:00:07.640 --> 00:00:08.560
+My name is Hahn.
+
+3
+00:00:08.630 --> 00:00:15.500
+I am an interaction designer working on and stories and I'm the name of her Gallagher, a product manager working on our stories.
+
+4
+00:00:15.860 --> 00:00:21.560
+We are both incredibly excited and grateful for the opportunity to share with you all what we've been working on.
+
+5
+00:00:23.020 --> 00:00:34.330
+Mobile phones have emerged as one of the primary devices on which we consume content, and stories have emerged as one of the most delightful content types to consume on our phones.
+
+6
+00:00:34.840 --> 00:00:40.270
+Certain demographics of users consume primarily stories invented by Snapchat.
+
+7
+00:00:40.600 --> 00:00:46.180
+Stories have found their way onto Instagram, Facebook and WhatsApp just to name a few apps.
+
+8
+00:00:46.990 --> 00:00:49.030
+Stories feel truly native to your phone.
+
+9
+00:00:49.660 --> 00:00:51.820
+Users love them and they are beautiful.
+
+10
+00:00:52.570 --> 00:00:54.070
+You don't have to rotate your phone.
+
+11
+00:00:54.550 --> 00:00:56.830
+You don't have to scroll through long pages of text.
+
+12
+00:00:57.740 --> 00:01:02.740
+The interaction model of tapping to navigate is simple and delightful.
+
+13
+00:01:03.400 --> 00:01:06.850
+However, stories do not exist at scale.
+
+14
+00:01:07.150 --> 00:01:12.350
+On the open web, they are not easily findable, shareable or likeable.
+
+15
+00:01:13.340 --> 00:01:15.010
+And this is where app stories come in.
+
+16
+00:01:15.880 --> 00:01:20.470
+We believe there is distinct value in having stories live on the open web.
+
+17
+00:01:21.310 --> 00:01:23.230
+First, you are in control.
+
+18
+00:01:23.830 --> 00:01:24.820
+You own the content.
+
+19
+00:01:25.420 --> 00:01:27.450
+You completely control monetization.
+
+20
+00:01:28.330 --> 00:01:33.340
+Second, stories have features and stories have features that are unique to the web.
+
+21
+00:01:33.970 --> 00:01:35.740
+They can link to other parts of your site.
+
+22
+00:01:36.340 --> 00:01:40.780
+They can be discovered by search engines and they can be embedded in any Web page.
+
+23
+00:01:41.590 --> 00:01:44.830
+Finally, and stories are both fast and immersive.
+
+24
+00:01:45.850 --> 00:01:51.290
+And stories are important because they enable you to offer the delightful story experience on the Web.
+
+25
+00:01:52.710 --> 00:01:56.040
+In February 2018, we first introduced AMP stories.
+
+26
+00:01:56.460 --> 00:02:02.430
+Since then, we have seen publishers produce beautiful content about a wide array of topics.
+
+27
+00:02:03.120 --> 00:02:07.590
+Today, we will talk about the benefits of building and stories on the open web.
+
+28
+00:02:08.490 --> 00:02:14.010
+First, we will talk about where stories appear on both Google search and discover.
+
+29
+00:02:14.970 --> 00:02:19.560
+We want you as a publisher of AMP Stories to be able to reach a wide audience.
+
+30
+00:02:20.070 --> 00:02:25.680
+And we want to improve the user journeys on both Google search and discover by displaying app stories.
+
+31
+00:02:26.370 --> 00:02:33.150
+Second, we will go over the many new capabilities that we've added to app stories to help you build beautiful content.
+
+32
+00:02:34.050 --> 00:02:40.050
+Third, we will cover best practices for creating high quality app stories for it.
+
+33
+00:02:40.440 --> 00:02:48.900
+We will describe ways that publishers can generate revenue and advertisers can build and promote their brands by creating stories.
+
+34
+00:02:49.650 --> 00:02:57.010
+Finally, we'll describe a few different creation tools that enable you to build up stories without having to write your own team out.
+
+35
+00:02:57.780 --> 00:03:02.900
+Now handed over to Hong Kong to talk about where stories appear on both Google search and discover.
+
+36
+00:03:05.010 --> 00:03:05.680
+Thanks many.
+
+37
+00:03:06.390 --> 00:03:10.650
+So now let's all get excited and start with and stories on Google services.
+
+38
+00:03:11.520 --> 00:03:14.430
+So off you have created all this beautiful and stories.
+
+39
+00:03:14.820 --> 00:03:18.690
+The main question you might have is how can users easily discover them?
+
+40
+00:03:19.500 --> 00:03:31.310
+Well, as Rene mentioned before, the great things about app in general is that your stories are just regular web pages so they can be accessible wherever sue publisher sites.
+
+41
+00:03:31.800 --> 00:03:36.420
+So social platforms and of course, so search engines like Google.
+
+42
+00:03:38.240 --> 00:03:48.410
+So am stories can show up on Google search today in web results and top stories in order to make the whole search experience more visual and interactive.
+
+43
+00:03:49.010 --> 00:03:55.730
+We're working on a dedicated placement for and stories saw search for queries in specific categories.
+
+44
+00:03:56.510 --> 00:04:01.790
+So now let's use travel as example and all get on a visual search journey together.
+
+45
+00:04:02.990 --> 00:04:06.080
+I think May is a great season to travel to Japan.
+
+46
+00:04:06.650 --> 00:04:11.900
+So why don't we imagine ourselves searching for things to do in Tokyo?
+
+47
+00:04:14.200 --> 00:04:16.270
+And here you have the centuries old page.
+
+48
+00:04:18.270 --> 00:04:30.390
+You start screwing and exploring the cool content and you find this beautiful blog serving your cool travel visual stories, tapping on any of this cover would take you right into the story.
+
+49
+00:04:31.140 --> 00:04:36.270
+So now you're able to enjoy your reading experience by simply taps through the pages.
+
+50
+00:04:37.280 --> 00:04:41.560
+And if you want to grow something else, you can just simply swipe to the next story.
+
+51
+00:04:42.730 --> 00:04:47.770
+You will get this endless discovery experience by continuously swiping to the next.
+
+52
+00:04:48.640 --> 00:04:49.960
+How amazing is this?
+
+53
+00:04:50.650 --> 00:04:54.000
+I can't wait to see this rolling out in the next couple months.
+
+54
+00:04:54.730 --> 00:04:55.300
+I see solved.
+
+55
+00:04:55.320 --> 00:04:58.180
+You guys already try to get this on your phone right now.
+
+56
+00:04:58.480 --> 00:04:59.400
+Well, please stay tuned.
+
+57
+00:04:59.400 --> 00:05:00.320
+Is coming very soon.
+
+58
+00:05:03.970 --> 00:05:08.370
+And the things to do in Tokyo, example we just saw is really just a teaser.
+
+59
+00:05:09.120 --> 00:05:19.150
+The so many cool places to withered around the word and by adding this new experience to Google search, users will start getting more and more engaging travel stories.
+
+60
+00:05:20.140 --> 00:05:36.880
+We will start with travel because we believe that looking at a rich content experience like this can really helping user get a better understanding of the travel destinations and the users can engage more before they even physically get to the destinations.
+
+61
+00:05:38.020 --> 00:05:45.040
+And this travel Michelle stories also tend to be evergreen, so they are still relevant months after being published.
+
+62
+00:05:47.020 --> 00:05:51.520
+And of course, story format works really well with other content categories.
+
+63
+00:05:52.330 --> 00:06:02.210
+After trouble, we will experiment with gaming, fashion recipe movies, TV shows and even more content categories.
+
+64
+00:06:04.990 --> 00:06:07.180
+So be on the regular search experience.
+
+65
+00:06:07.780 --> 00:06:16.180
+Google also offers you a browse forward experience in the Discover fee for all time users that do not need to have a career in mind.
+
+66
+00:06:17.110 --> 00:06:19.390
+A quick reminder on what's Discover.
+
+67
+00:06:20.180 --> 00:06:30.250
+So Discover is a feature within Google search that helps user to stay up to date with your all time favorite topics without needing a query.
+
+68
+00:06:31.330 --> 00:06:33.400
+Users get to their discover experience.
+
+69
+00:06:33.550 --> 00:06:53.110
+Sue the Google app found the Google Scholar Mobile Home page or by simply swipe right from their home screen on pixel fonts, discover Haskell and significantly and now helps more than 800 million monthly active users to get inspired and explore great content.
+
+70
+00:06:55.030 --> 00:07:02.770
+The exciting news is that in the past six months, we have also been featuring great arms stories in the Discover feat.
+
+71
+00:07:04.920 --> 00:07:12.090
+We served many high quality stories based on a diverse range of topics and we saw great user engagement.
+
+72
+00:07:13.070 --> 00:07:17.960
+We believe that stories face really well with the use of my site in Discover.
+
+73
+00:07:18.650 --> 00:07:22.850
+So we're playing on focus even more on this platform moving forward.
+
+74
+00:07:23.930 --> 00:07:30.110
+So now I'll hand it back to Vinay to walk you through the exciting AMP story format updates.
+
+75
+00:07:31.740 --> 00:07:32.210
+Thanks, hon.
+
+76
+00:07:33.600 --> 00:07:38.490
+Let's go over the new capabilities that we've added to help you build beautiful stories that users love.
+
+77
+00:07:40.690 --> 00:07:41.920
+The first is localization.
+
+78
+00:07:42.710 --> 00:07:47.170
+When aren't stories first launched, it only supported English, which was actually very limiting.
+
+79
+00:07:47.830 --> 00:07:50.350
+Today, it supports 21 different locales.
+
+80
+00:07:51.010 --> 00:07:59.080
+To use these new languages, set the lang attribute to the corresponding language and local code on the H2 email tag of your app story.
+
+81
+00:07:59.890 --> 00:08:06.470
+If your story should be displayed in right to left format, you should add the DIR equals RTL attribute as well.
+
+82
+00:08:07.620 --> 00:08:08.670
+Let's move on to desktop.
+
+83
+00:08:10.700 --> 00:08:18.230
+The default experience on desktop reuses the mobile design so that publishers can simply create for mobile and have a design that works everywhere.
+
+84
+00:08:18.800 --> 00:08:28.430
+However, one of the major benefits of app stories is that they live on the web and they reach a wide audience of users, many of whom are on desktop and laptop computers.
+
+85
+00:08:29.060 --> 00:08:36.950
+We realize that we can build an amazing desktop experience by using full screen images and video on a desktop computer.
+
+86
+00:08:37.040 --> 00:08:43.700
+This feels a lot more natural and it brings the same feeling of immersion that we see with app stories on mobile phones.
+
+87
+00:08:44.180 --> 00:08:49.220
+It does require you as the publisher to do a little bit more work in terms of getting the right art direction.
+
+88
+00:08:49.880 --> 00:08:55.850
+However, if you have a sizeable desktop audience, the uplifting user experience is worth the effort.
+
+89
+00:08:57.570 --> 00:09:03.300
+This experience was designed and developed in a collaboration with The Washington Post, whose story you see here.
+
+90
+00:09:04.140 --> 00:09:08.490
+They worked closely with us to experiment with this experience and prove its effectiveness.
+
+91
+00:09:09.390 --> 00:09:16.390
+Once we understood the value that this brought to users reproduction, I used it and shipped it as a core part of the app stories at.
+
+92
+00:09:18.740 --> 00:09:24.340
+The Washington Post has continued to publish a number of amazing stories using the desktop experience.
+
+93
+00:09:25.910 --> 00:09:30.350
+Since launching this experience publicly, we have also seen great contact by the S.F.
+
+94
+00:09:30.350 --> 00:09:34.610
+Chronicle. So how do you get this experience on your stories?
+
+95
+00:09:36.160 --> 00:09:41.110
+The short answer is to just add the sports landscape attribute to the story tag.
+
+96
+00:09:42.010 --> 00:09:46.660
+However, you will notice that some images and videos are not appropriately cropped.
+
+97
+00:09:47.200 --> 00:09:55.120
+This is because by default on all screen sizes, we do a sensor crop where only the sensor most portion of the image is shown.
+
+98
+00:09:56.500 --> 00:09:59.680
+To correct this, use the new object position attribute.
+
+99
+00:10:01.460 --> 00:10:08.930
+On AMP image and AMP video, the object position attribute takes an X percentage and a Y percentage as the focal point.
+
+100
+00:10:09.830 --> 00:10:20.360
+In this example, we set the focal point to seventy five percent on the x axis and 40 percent on the Y axis, which is roughly the most important part of this photo.
+
+101
+00:10:21.400 --> 00:10:28.840
+The browser will then shift the photo over and attempt to make the focal point as close as possible to the center of the screen.
+
+102
+00:10:29.380 --> 00:10:31.440
+Giving us a much better crop.
+
+103
+00:10:32.870 --> 00:10:36.830
+You'll notice, however, that on landscape, the photo remains unchanged.
+
+104
+00:10:37.340 --> 00:10:47.180
+That's because in this case, the focal point cannot actually be moved any closer to the center of the screen while the full why look while the photo still covers the entire screen.
+
+105
+00:10:48.740 --> 00:10:59.840
+Let's move on to talk about the sidebar publishers told us that they wanted a navigational affords to allow users to navigate to different parts of their site from their app stories.
+
+106
+00:11:00.920 --> 00:11:02.870
+So we've added support for AMP sidebar.
+
+107
+00:11:03.680 --> 00:11:08.660
+This adds a sidebar or hamburger menu to the top right of your AMP story pages.
+
+108
+00:11:11.080 --> 00:11:14.030
+Using AMP sidebar is relatively straightforward.
+
+109
+00:11:14.680 --> 00:11:24.250
+You can embed the AMP side bar tag as a direct child of AMP story, all of the content within the sidebar tag will appear in the sidebar menu.
+
+110
+00:11:26.540 --> 00:11:27.770
+Next up is attachments.
+
+111
+00:11:28.640 --> 00:11:30.650
+Stories are great because they're concise.
+
+112
+00:11:31.040 --> 00:11:36.710
+However, there are times when you want to enable your audience to dive deeper into a particular topic.
+
+113
+00:11:37.250 --> 00:11:38.740
+And this is where attachments come in.
+
+114
+00:11:39.970 --> 00:11:44.140
+To open an attachment, a user can simply swipe up from the bottom of a page.
+
+115
+00:11:44.830 --> 00:11:48.430
+As a publisher, you control the content of the attachment entirely.
+
+116
+00:11:49.850 --> 00:11:57.020
+To add an attachment to your page, add the AMP story page, attach tag as a direct child of AMP story page.
+
+117
+00:11:57.920 --> 00:12:05.270
+This will add a UI it to the bottom of the page that a user can usually swipe up on to reveal the scroll will paint.
+
+118
+00:12:06.520 --> 00:12:19.620
+All of the H team L for an attachment must be within the AMS story page attachment tags, attachment attachments can contain many AMP components that are not supported on AMP story pages.
+
+119
+00:12:20.440 --> 00:12:23.230
+The last component we'll talk about is embeds.
+
+120
+00:12:24.220 --> 00:12:29.050
+One of the great things about the web is the ability to embed content within your page.
+
+121
+00:12:29.800 --> 00:12:34.630
+We are adding the ability to embed different types of content in your AMP story pages.
+
+122
+00:12:36.200 --> 00:12:43.010
+One challenge with adding interactive embeds to stories is that users have to navigate in this particular example.
+
+123
+00:12:43.130 --> 00:12:48.620
+If a user is tapping quickly through this story, we don't want the user to accidentally start playing this video.
+
+124
+00:12:49.550 --> 00:12:54.500
+This is why tapping an interactive embed triggers a tooltip with navigation arrows.
+
+125
+00:12:55.100 --> 00:13:01.370
+Tapping the navigation arrows navigates while tapping the tooltip brings the Twitter embed into full focus.
+
+126
+00:13:02.060 --> 00:13:07.400
+This allows the user to interact with the content fully without breaking the navigational flow.
+
+127
+00:13:10.520 --> 00:13:17.720
+Each of the embeds that we support is an app component, so embedding them in your story is as simple as just using that app component.
+
+128
+00:13:18.560 --> 00:13:26.180
+In this example here we are embedding a tweet so we can utilize the app Twitter component just like it in a regular app page.
+
+129
+00:13:27.770 --> 00:13:32.210
+We're going to be rolling each of these components out individually over the next few months.
+
+130
+00:13:32.930 --> 00:13:36.290
+Now headed back to Hong who we'll talk about best practices.
+
+131
+00:13:38.020 --> 00:13:38.550
+Thanks, man.
+
+132
+00:13:39.880 --> 00:13:44.200
+I can't wait to see upcoming stories creating with all this cool features.
+
+133
+00:13:44.950 --> 00:13:49.620
+So be on offer you great features and flexibilities to create stories.
+
+134
+00:13:50.170 --> 00:13:54.460
+We also want it either for you to produce high quality stories.
+
+135
+00:13:55.210 --> 00:14:02.980
+We updated our story best practice on amped our death to make it easier for you to understand what makes a good story.
+
+136
+00:14:03.760 --> 00:14:07.720
+We all know that story is a new and a unique content format.
+
+137
+00:14:08.260 --> 00:14:18.340
+So if you're looking for inspirations ideas to start creating delightful stories, you can go check out our best practice to ensure your story quality.
+
+138
+00:14:18.970 --> 00:14:21.940
+So now let's take a look of some detail examples.
+
+139
+00:14:24.280 --> 00:14:29.740
+So when you make a story, always make sure your story is complete and self-contained.
+
+140
+00:14:30.710 --> 00:14:33.680
+Keep your readers engaged with in the story.
+
+141
+00:14:34.340 --> 00:14:39.650
+Don't require them to click on links to go to other Web site to get essential information.
+
+142
+00:14:41.580 --> 00:14:44.220
+Use tax, know clear and concise way.
+
+143
+00:14:45.220 --> 00:14:50.170
+Keep your audience engaged by avoiding putting large block of tax on the page.
+
+144
+00:14:51.090 --> 00:14:54.490
+Keep in mind that story is so visually driven format.
+
+145
+00:14:55.090 --> 00:14:59.890
+So police use rich media to tell your story and add text to enhance it.
+
+146
+00:15:00.760 --> 00:15:10.630
+Sometimes you think different font size or font style can help you break up the block of tax and then make the whole scam ability more easy.
+
+147
+00:15:12.070 --> 00:15:18.910
+Always make sure your tax is legible using high contrast to make every single word on your page.
+
+148
+00:15:19.180 --> 00:15:19.960
+Easy to see.
+
+149
+00:15:22.490 --> 00:15:28.370
+Take advantage of the beautiful four screen, tried to use forfeited assets as much as possible.
+
+150
+00:15:29.210 --> 00:15:37.070
+You can create a more compelling and immersive page experience by using the full bleed portray to base images and videos.
+
+151
+00:15:38.030 --> 00:15:48.380
+Another good thing about using the portrayed assets is it can help cut off the non important information on the page and help your readers to focus on one key single subject.
+
+152
+00:15:51.100 --> 00:15:55.290
+And we all know that motion plays an important role in the storytelling.
+
+153
+00:15:56.100 --> 00:15:58.590
+So be creative with the animation usage.
+
+154
+00:15:59.340 --> 00:16:03.870
+You can bring static imagery to life by the proper usage of animations.
+
+155
+00:16:04.650 --> 00:16:10.080
+Please keep in mind that animation should always enhance the visual, but not destructive visual.
+
+156
+00:16:11.070 --> 00:16:20.190
+In the last example here, animating individual objects separately to the page make the whole visual experience looks more interesting and enjoyable.
+
+157
+00:16:21.120 --> 00:16:21.640
+On the right.
+
+158
+00:16:21.710 --> 00:16:24.120
+Some will hear the effects on the background.
+
+159
+00:16:24.120 --> 00:16:26.130
+Image looks nice and subtle.
+
+160
+00:16:26.760 --> 00:16:33.720
+It also helps create a nice balance with the tax holiday together and make the whole page experience feels more immersive.
+
+161
+00:16:34.830 --> 00:16:39.150
+I hope this examples are helpful to look at more accessible like this.
+
+162
+00:16:39.510 --> 00:16:43.400
+Please check out our 4 AM story best practice on Amador.
+
+163
+00:16:44.920 --> 00:16:48.010
+Moving forward, let's talk about modernization.
+
+164
+00:16:49.010 --> 00:17:03.260
+So if stories offer you this fast and immersive mobile first content experience, we also think that stories can create a great opportunity to make advertising's more beautiful and immersive.
+
+165
+00:17:04.350 --> 00:17:09.870
+In the past one year, we have also been working really hard on the app stores modernization site.
+
+166
+00:17:10.740 --> 00:17:16.080
+So now we can provide you a diverse of ways to monetize your stories.
+
+167
+00:17:16.710 --> 00:17:19.640
+And today we're going to talk about three of them.
+
+168
+00:17:21.820 --> 00:17:23.230
+First up, a story out.
+
+169
+00:17:23.980 --> 00:17:31.330
+So if you are a publisher that makes revenue on Web articles, you have now created a beautiful and story.
+
+170
+00:17:32.020 --> 00:17:35.110
+So what is your best option to monetize your content?
+
+171
+00:17:36.040 --> 00:17:42.760
+To better answer this question, we actually looked back and the borrow principles for how advertising worked.
+
+172
+00:17:42.850 --> 00:17:43.690
+A magazine's.
+
+173
+00:17:44.820 --> 00:17:52.030
+So when you look at the beautiful magazine, the acting side always feel really immersive and take up the entire page.
+
+174
+00:17:53.000 --> 00:17:58.010
+The ads are placed tastefully in the right sections, never feel overloaded.
+
+175
+00:17:58.990 --> 00:18:01.300
+And finally, they're very flexible.
+
+176
+00:18:01.840 --> 00:18:08.420
+It opens up this cleaning and a blank canvas to allow advertisers to create whatever ad they want.
+
+177
+00:18:11.160 --> 00:18:20.340
+So as story ads, we wanted to ensure that the ads always feel immersive and take up entire real estate available off the device.
+
+178
+00:18:21.240 --> 00:18:25.530
+We'll also make sure that the ads is only going to load once 40 loaded.
+
+179
+00:18:26.430 --> 00:18:28.350
+So no more loading indicators.
+
+180
+00:18:29.230 --> 00:18:35.830
+Here's one example where the BMW created a beautiful story out showcasing autonomous driving.
+
+181
+00:18:38.390 --> 00:18:47.270
+The placement of the ad is orchestrated by the AMP stories will optimize where the ad goes for the right user at the right time.
+
+182
+00:18:48.180 --> 00:19:01.710
+This allows us to create a great balance between the ACT density and publisher revenue and the one the ad is 40 loaded and ready to show, we'll simply splice the ad into the poppy show story.
+
+183
+00:19:03.770 --> 00:19:20.060
+Story adds also helps open up a flexible canvas to although advertisers to show whatever media they want from tax to images to videos or even animations, they're all built on the top of the AMP H2 model ad framework.
+
+184
+00:19:20.450 --> 00:19:22.730
+So the capabilities here are analysts.
+
+185
+00:19:24.300 --> 00:19:29.460
+And the stories are already life today for publishers who are using Google go at managers.
+
+186
+00:19:30.240 --> 00:19:45.030
+If you are an advertiser in this particular case into it, you can basically go talk to any publisher that's creating or serving stories and using Google ad manager to deliver your ads into the story.
+
+187
+00:19:46.180 --> 00:19:48.480
+So here's an example of a Washington Post story.
+
+188
+00:19:49.500 --> 00:19:51.600
+And the wonder at ad is ready to show.
+
+189
+00:19:52.620 --> 00:19:54.340
+The Intuit ad was simply show up.
+
+190
+00:19:57.000 --> 00:20:00.090
+And later in the summer, we will launch programmatic support.
+
+191
+00:20:00.780 --> 00:20:08.280
+So now as a advertiser, you were able to directly using the Race 360 to target any publisher onboard.
+
+192
+00:20:09.030 --> 00:20:13.440
+And you think will go ad manager to deliver your ads into the stories.
+
+193
+00:20:16.570 --> 00:20:19.240
+To make it a super easy for you to get started.
+
+194
+00:20:19.870 --> 00:20:27.340
+We have created beautiful story as templates and made them available for you to download for free on amped our death.
+
+195
+00:20:28.300 --> 00:20:32.380
+And of course, the entire canvas is free and flexible.
+
+196
+00:20:33.130 --> 00:20:36.640
+We just want to get you quickly started with a few common format.
+
+197
+00:20:39.360 --> 00:20:42.810
+And this Templars are all available on Amsterdam today.
+
+198
+00:20:43.260 --> 00:20:47.030
+So you can download them and then design add in the ways you prefer.
+
+199
+00:20:49.520 --> 00:21:02.180
+So now let's talk about the failing links, so any links are links which, although a publisher to modernize their outgoing links, one, the user purchased some something on the length advertise this landing page.
+
+200
+00:21:03.980 --> 00:21:07.620
+In a way, stories already support of failing links today.
+
+201
+00:21:08.560 --> 00:21:11.830
+You can add any outgoing links with a story page.
+
+202
+00:21:12.430 --> 00:21:19.390
+So in this example here, if you tap all get now, you're able to continue to go to the product landing page.
+
+203
+00:21:21.380 --> 00:21:27.240
+But we want to make the whole user experience more consistent across users for all publishers.
+
+204
+00:21:28.040 --> 00:21:39.050
+So we're working on a special UI to let a finish links to uniformly pass the system level to indicate this is and Finland link and I want to use tax on them.
+
+205
+00:21:39.470 --> 00:21:42.110
+The publishers can control what you show.
+
+206
+00:21:42.320 --> 00:21:48.350
+It could be things like the price of the product or the domain is going to in the photo op state.
+
+207
+00:21:51.480 --> 00:21:57.870
+In this example here, it's really clear for the user to know where they're going to and the price of the product.
+
+208
+00:22:00.650 --> 00:22:03.920
+Finally, let's switch gears and talk about lots of stories.
+
+209
+00:22:04.730 --> 00:22:11.870
+So what we mean by small scale stories are really just the stories that created by order of Tyson's for marketing purposes.
+
+210
+00:22:13.310 --> 00:22:19.220
+For example, here's a sponsor's story that created by L'Oreal for promoting their new product.
+
+211
+00:22:19.510 --> 00:22:20.480
+The rush per say.
+
+212
+00:22:21.630 --> 00:22:32.400
+This works great for L'Oreal because users could get a quick idea off the product being this fast and immersive mobile force content experience within just a few taps.
+
+213
+00:22:33.240 --> 00:22:39.270
+So instead of creating a whole new web landing page, L'Oreal has chosen to create a story.
+
+214
+00:22:41.200 --> 00:22:53.010
+L'Oreal also uses QR code to create an all flying to online strategy where they send users to their stories by simply scan the QR code on the back of their package box.
+
+215
+00:22:54.300 --> 00:23:05.550
+They also enable the really cool NFC technology in their physical products station where they send users to the story by one simple scan, as you can see in the right video here.
+
+216
+00:23:06.780 --> 00:23:08.880
+Notice how quickly the story loads.
+
+217
+00:23:09.670 --> 00:23:13.230
+There is no need to download any additional apps on apps.
+
+218
+00:23:13.440 --> 00:23:14.850
+In order to get the story.
+
+219
+00:23:15.660 --> 00:23:22.050
+This although to deliver amazing content right away to you from one simple URL.
+
+220
+00:23:23.940 --> 00:23:34.050
+And we also know that large publishers already have a big sponsor content business where they read editorial content on behalf of the advertisers.
+
+221
+00:23:35.010 --> 00:23:47.310
+So here's an example where the paragraph created a beautiful travel sponsored story talking about Garnsey and because this is an app story, so it works beautifully on desktop as well.
+
+222
+00:23:48.690 --> 00:23:51.530
+The questioning advertising is now.
+
+223
+00:23:51.690 --> 00:23:53.790
+You have created all this beautiful experience.
+
+224
+00:23:54.540 --> 00:23:59.190
+How can you drive traffic to spots a story and how can you get users to find them?
+
+225
+00:24:00.120 --> 00:24:01.950
+Well, here we have a few examples.
+
+226
+00:24:03.210 --> 00:24:12.850
+The first one is when you use fossil stories as many pages in Google as the sponsor's story will be automatically deliver from AMP cash.
+
+227
+00:24:13.500 --> 00:24:19.620
+Therefore, from a user standpoint, the experience will be really snappy, fast and immersive.
+
+228
+00:24:21.340 --> 00:24:28.860
+And sponsored stories can also be embedded inside off your regular Web pages, just like any of the other AM stories.
+
+229
+00:24:29.580 --> 00:24:36.240
+Because once the story is reaches the landing page so you can embedded in sand, I frame and put it on your page.
+
+230
+00:24:36.840 --> 00:24:41.320
+And the one useful tap on it, it will launch into this beautiful for screen experience.
+
+231
+00:24:43.020 --> 00:24:49.890
+You can find out all the sinful, full and the more about and stories monetization, I'll amped all dab slash stories.
+
+232
+00:24:50.820 --> 00:24:55.410
+Now I'll hand it back to Vinay to walk you through AM Story Creation Tools.
+
+233
+00:24:56.490 --> 00:24:56.970
+Thanks, Hong.
+
+234
+00:24:58.820 --> 00:25:04.240
+There are a number of third party tools that enable you to build AMP stories without having to write your own age.
+
+235
+00:25:04.270 --> 00:25:04.750
+Tim L..
+
+236
+00:25:06.370 --> 00:25:07.150
+Make stories.
+
+237
+00:25:07.180 --> 00:25:13.630
+Is that what you see is what you get editor that enables you to build em stories from scratch just by dragging and dropping.
+
+238
+00:25:14.470 --> 00:25:19.760
+It includes a library of built in templates as well as free icons, illustrations and gifts.
+
+239
+00:25:20.680 --> 00:25:22.960
+You can upload your own images and videos.
+
+240
+00:25:23.300 --> 00:25:24.460
+Make sure is this free?
+
+241
+00:25:24.850 --> 00:25:26.710
+Check it out at make stories that IO.
+
+242
+00:25:30.830 --> 00:25:37.800
+Unfold is a story creation tool that launched at the beginning of last year and has since grown to more than 17 million downloads.
+
+243
+00:25:38.340 --> 00:25:51.760
+It offers easy story creation right from your Android or IOW device and includes a number of beautiful templates and themes unfold will add support for apps stories later this summer as part of a premium version of its app.
+
+244
+00:25:54.650 --> 00:26:05.120
+NEWSROOM studio is a powerful story creation tool, specifically engineered for publishers looking to embed these topical formats into both editorial and commercial workflows.
+
+245
+00:26:05.690 --> 00:26:14.540
+It includes a turnkey monetization solution recommendations engine as well as unrestricted access to the Getty Library of Images and Videos.
+
+246
+00:26:17.930 --> 00:26:20.750
+We're also starting to see platforms publish stories to the Web.
+
+247
+00:26:21.560 --> 00:26:27.160
+Both the jump rope and ticked on are platforms for users and creators to publish.
+
+248
+00:26:27.170 --> 00:26:28.310
+How two stories.
+
+249
+00:26:29.310 --> 00:26:32.380
+Both are publishing to the Web in the app store format today.
+
+250
+00:26:34.010 --> 00:26:42.680
+Lastly, we own the AMP team have also been working to add story support to CNS is starting with the word press AMP plug in.
+
+251
+00:26:43.910 --> 00:26:48.560
+We have been working jointly with the agency ex WP to add to what you see is what you get.
+
+252
+00:26:48.560 --> 00:26:50.630
+Editor to the word press amp plug in.
+
+253
+00:26:53.420 --> 00:27:01.640
+With this plugin, you can upload images and videos adding customized text and add animations to different objects.
+
+254
+00:27:02.450 --> 00:27:05.750
+This will launch around June 20th at Work Camp Europe.
+
+255
+00:27:08.040 --> 00:27:10.230
+This concludes our talk on AM stories.
+
+256
+00:27:10.770 --> 00:27:13.650
+In summary, we want to leave you with the following points.
+
+257
+00:27:14.490 --> 00:27:20.530
+Stories have emerged as one of the most delightful content types to consume on our phones and stories.
+
+258
+00:27:20.550 --> 00:27:30.870
+Bring this format to the open web and publishers benefit because they own their stories, can make them discoverable, can link to them, embed them and monetize them.
+
+259
+00:27:32.520 --> 00:27:39.720
+Today, we announced the new placement for AMP stories on Google search, new capabilities to help you create more beautiful stories.
+
+260
+00:27:40.260 --> 00:27:51.210
+Best practices on how to create high quality stories, ways to monetize your stories and creation tools that enable you to build apps stories without having to write your own age to email.
+
+261
+00:27:52.620 --> 00:27:58.240
+To get started with the stories, check out the story page at go dot amp, dot tab slash stories.
+
+262
+00:27:58.960 --> 00:28:05.290
+This has documentation on what stories are and how to use them, as well as documentation for story ads.
+
+263
+00:28:06.480 --> 00:28:11.010
+You can also click through to see live examples of some of the stories we've shown here today.
+
+264
+00:28:11.880 --> 00:28:20.160
+Another great resource to check out is the best practices guide that goes into what makes a good story, including all of the examples that hung whenever today.
+
+265
+00:28:20.940 --> 00:28:23.560
+If you have additional questions, please check out the stories.
+
+266
+00:28:23.640 --> 00:28:26.180
+Sandbox. Thank you.
